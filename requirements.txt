@@ -1,6 +1,7 @@
 numpy>=1.13
 pyyaml>=3.12
 matplotlib
+scikit-build
 opencv-python>=3.2
 setuptools
 Cython
